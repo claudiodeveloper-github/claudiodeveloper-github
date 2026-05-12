@@ -1,4 +1,4 @@
-# Olá! Eu sou Cláudio Castro
+# Cláudio G. S. Castro
 
 ## Sobre mim
 
