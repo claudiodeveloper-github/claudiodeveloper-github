@@ -1,21 +1,48 @@
-### Olá! Eu sou o **Claudio Castro** 🖐️
+# Olá! Eu sou Cláudio Castro
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+## Sobre mim
 
-![Claudio GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=dracula)
+Desenvolvedor focado em Java Backend, Spring Boot e bancos de dados SQL.
 
-## Tecnologia que estudo e aperfeiçoou dia após dia.
+Atualmente estudando:
+- Java
+- Programação Orientada a Objetos
+- Spring Boot
+- APIs REST
+- SQL e PostgreSQL
+- Git e GitHub
 
+Buscando evoluir diariamente através de projetos práticos.
 
-<div style="display: inline_block"><br/>
-    <img aLign="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img aLign="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aLign="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img aLign="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</div><br/>
+---
 
-Paixão pelos recursos que a tecnologia nos oferece, sem perder o estimulante desenvolvimento de relações humanas. 
+## Tecnologias
 
-## Contato:<br/>[![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
+- Java
+- Spring Boot
+- SQL
+- PostgreSQL
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## Projetos em desenvolvimento
+
+- API CRUD com Spring Boot
+- Sistema de autenticação JWT
+- Gerenciador de tarefas
+- Integração com banco de dados
+
+---
+
+## Objetivos
+
+- Clean Code
+- Arquitetura Backend
+- Testes
+- Docker
+- Microsserviços
