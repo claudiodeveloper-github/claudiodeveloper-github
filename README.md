@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Desenvolvedor focado em Java Backend, Spring Boot e bancos de dados SQL.
+Java Backend Developer em formação | Spring Boot, APIs REST, MySQL e PostgreSQL
 
 Atualmente estudando:
 - Java
