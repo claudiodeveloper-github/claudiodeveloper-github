@@ -45,8 +45,8 @@ Buscando evoluir diariamente através de projetos práticos.
 
 ## Objetivos
 
-- Clean Code
-- Arquitetura Backend
-- Testes
-- Docker
-- Microsserviços
+Boas práticas backend
+Arquitetura REST
+Testes
+Docker
+Spring Security
