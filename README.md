@@ -1,4 +1,5 @@
 <img src="./banner.png" alt="Banner" width="100%" />
+
 # Cláudio G. S. Castro
 
 ## Sobre mim
