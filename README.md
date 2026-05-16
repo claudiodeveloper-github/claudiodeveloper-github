@@ -36,8 +36,6 @@ Buscando evoluir diariamente através de projetos práticos.
 
 ## Projetos em desenvolvimento
 
-## Projetos em desenvolvimento
-
 - [Banco Digital API](https://github.com/claudiodeveloper-github/banco-digital-api)  
   API desenvolvida em **Spring Boot** para operações bancárias básicas, com integração a banco de dados relacional e boas práticas REST.
 
