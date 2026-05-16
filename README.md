@@ -45,8 +45,8 @@ Buscando evoluir diariamente através de projetos práticos.
 
 ## Objetivos
 
-Boas práticas backend
-Arquitetura REST
-Testes
-Docker
-Spring Security
+- Boas práticas backend
+- Arquitetura REST
+- Testes
+- Docker
+- Spring Security
