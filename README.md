@@ -4,15 +4,17 @@
 
 ## Sobre mim
 
-Java Backend Developer em formação | Spring Boot, APIs REST, MySQL e PostgreSQL
+Desenvolvedor Backend em formação com foco em Java e Spring Boot.
+Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs REST, bancos de dados relacionais e arquitetura backend.
 
-Atualmente estudando:
-- Java
-- Programação Orientada a Objetos
-- Spring Boot
-- APIs REST
-- SQL e PostgreSQL
-- Git e GitHub
+Tecnologias em estudo:
+
+Java
+Spring Boot
+SQL
+PostgreSQL
+Git
+GitHub
 
 Buscando evoluir diariamente através de projetos práticos.
 
@@ -34,10 +36,10 @@ Buscando evoluir diariamente através de projetos práticos.
 
 ## Projetos em desenvolvimento
 
-- API CRUD com Spring Boot
+- Banco Digital API
+- CRUD API com Spring Boot
 - Sistema de autenticação JWT
-- Gerenciador de tarefas
-- Integração com banco de dados
+- API de gerenciamento de tarefas
 
 ---
 
