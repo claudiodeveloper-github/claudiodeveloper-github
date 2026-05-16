@@ -16,9 +16,9 @@ PostgreSQL
 Git
 GitHub
 
-Buscando evoluir diariamente através de projetos práticos.
+Construindo projetos práticos para consolidar conhecimentos em desenvolvimento backend e boas práticas de software.
 
----
+***
 
 ## Tecnologias
 
@@ -28,12 +28,16 @@ Buscando evoluir diariamente através de projetos práticos.
 - PostgreSQL
 - Git
 - GitHub
+
+***
+
+## Conhecimentos complementares
+
 - HTML
 - CSS
 - JavaScript
-
----
-
+  
+***
 ## Projetos em desenvolvimento
 
 - [Banco Digital API](https://github.com/claudiodeveloper-github/banco-digital-api)  
@@ -49,7 +53,7 @@ Buscando evoluir diariamente através de projetos práticos.
   API REST para controle de tarefas, com endpoints de criação, atualização e exclusão, utilizando **Java**, **Spring Boot** e **PostgreSQL**.
 
 
----
+***
 
 ## Objetivos
 
