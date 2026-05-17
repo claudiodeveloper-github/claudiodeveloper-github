@@ -12,6 +12,7 @@ Tecnologias em estudo:
 Java
 Spring Boot
 SQL
+MySQL
 PostgreSQL
 Git
 GitHub
