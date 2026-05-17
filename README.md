@@ -21,8 +21,6 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 
 ***
 
-## Tecnologias
-
 ### Tecnologias
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,8 +32,6 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 
 ***
 
-## Conhecimentos complementares
-
 ### Conhecimentos complementares
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,7 +40,6 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
   
 ***
 ## Projetos em desenvolvimento
-## Projetos
 
 - **[OS Manager](https://github.com/claudiodeveloper-github/osmanager)** — Sistema completo de ordens de serviço com Spring Boot 3, Spring Security e Thymeleaf
   
