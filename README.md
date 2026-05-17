@@ -39,18 +39,15 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
   
 ***
 ## Projetos em desenvolvimento
+## Projetos
 
-- [Banco Digital API](https://github.com/claudiodeveloper-github/banco-digital-api)  
-  API desenvolvida em **Spring Boot** para operações bancárias básicas, com integração a banco de dados relacional e boas práticas REST.
-
-- [CRUD API com Spring Boot](https://github.com/claudiodeveloper-github/crudapi-springboot)  
-  API CRUD construída com **Spring Boot** e **PostgreSQL**, aplicando princípios de arquitetura limpa e validação de dados.
-
-- [Sistema de autenticação JWT](https://github.com/claudiodeveloper-github/auth-jwt-api)  
-  Projeto focado em **Spring Security** e **JWT**, implementando autenticação e autorização seguras para aplicações backend.
-
-- [API de gerenciamento de tarefas](https://github.com/claudiodeveloper-github/task-manager-api)  
-  API REST para controle de tarefas, com endpoints de criação, atualização e exclusão, utilizando **Java**, **Spring Boot** e **PostgreSQL**.
+- **[OS Manager](https://github.com/claudiodeveloper-github/osmanager)** — Sistema completo de ordens de serviço com Spring Boot 3, Spring Security e Thymeleaf
+  
+- **[Desafio Itaú Backend](https://github.com/claudiodeveloper-github/desafio-itau-backend)** — API REST desenvolvida como desafio técnico
+  
+- **[CRUD API Spring Boot](https://github.com/claudiodeveloper-github/crudapi-springboot)** — API CRUD com Spring Boot e PostgreSQL
+  
+- **[Banco Digital API](https://github.com/claudiodeveloper-github/banco-digital-api)** — API de operações bancárias básicas
 
 
 ***
