@@ -7,7 +7,7 @@
 Desenvolvedor Backend em formação com foco em Java e Spring Boot.
 Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs REST, bancos de dados relacionais e arquitetura backend.
 
-Tecnologias em estudo:
+## Tecnologias em estudo:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -20,7 +20,7 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 
 ***
 
-### Conhecimentos complementares
+## Conhecimentos complementares
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
