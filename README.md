@@ -29,6 +29,10 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 ***
 ## Projetos em desenvolvimento
 
+## Projetos em desenvolvimento
+
+- **[gestao-farmacia](https://github.com/claudiodeveloper-github/gestao-farmacia)** — Sistema de gerenciamento de medicamentos em Java puro com conexão ao banco de dados MySQL, utilizando arquitetura em camadas e padrão DAO
+
 - **[OS Manager](https://github.com/claudiodeveloper-github/osmanager)** — Sistema completo de ordens de serviço com Spring Boot 3, Spring Security e Thymeleaf
   
 - **[Desafio Itaú Backend](https://github.com/claudiodeveloper-github/desafio-itau-backend)** — API REST desenvolvida como desafio técnico
@@ -36,7 +40,6 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 - **[CRUD API Spring Boot](https://github.com/claudiodeveloper-github/crudapi-springboot)** — API CRUD com Spring Boot e PostgreSQL
   
 - **[Banco Digital API](https://github.com/claudiodeveloper-github/banco-digital-api)** — API de operações bancárias básicas
-
 
 ***
 
