@@ -27,11 +27,10 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=v8&logoColor=black)
   
 ***
-## Projetos em desenvolvimento
 
 ## Projetos em desenvolvimento
 
-- **[gestao-farmacia](https://github.com/claudiodeveloper-github/gestao-farmacia)** — Sistema de gerenciamento de medicamentos em Java puro com conexão ao banco de dados MySQL, utilizando arquitetura em camadas e padrão DAO
+- **[Gestao-Farmácia](https://github.com/claudiodeveloper-github/gestao-farmacia)** — Sistema de gerenciamento de medicamentos em Java puro com conexão ao banco de dados MySQL, utilizando arquitetura em camadas e padrão DAO
 
 - **[OS Manager](https://github.com/claudiodeveloper-github/osmanager)** — Sistema completo de ordens de serviço com Spring Boot 3, Spring Security e Thymeleaf
   
