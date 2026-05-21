@@ -1,9 +1,6 @@
-<div align="center">
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=claudiodeveloper-github&color=blueviolet&style=flat)
-</div>
-<div align="center">
-  <img src="./banner.png" alt="Banner Cláudio G. S. Castro" width="100%" />
-</div>
+
 <img src="./banner.png" alt="Banner" width="100%" />
 
 # Cláudio G. S. Castro
