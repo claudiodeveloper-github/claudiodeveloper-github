@@ -71,7 +71,11 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=claudiodeveloper-github&theme=tokyonight" />
+  <h3>🚀 Nível de Domínio das Tecnologias</h3>
+  <p>Uma visão clara de onde concentro meu foco e habilidades práticas diariamente:</p>
+  
+  <img src="https://img.shields.io/badge/Java%20/%20Spring%20Boot-Especialidade-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bancos%20de%20Dados-Avançado-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20/%20Git-Intermediário-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
-
 
