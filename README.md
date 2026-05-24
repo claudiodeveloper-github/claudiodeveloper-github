@@ -45,7 +45,7 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 
 ***
 
-## Objetivos
+## Foco de Estudo Atual
 
 - Boas práticas backend
 - Arquitetura REST
