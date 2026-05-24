@@ -3,9 +3,7 @@
 
 <img src="./banner.png" alt="Banner" width="100%" />
 
-# Cláudio G. S. Castro
-
-## Sobre mim
+# Sobre mim.
 
 Desenvolvedor Backend em formação com foco em Java e Spring Boot.
 Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs REST, bancos de dados relacionais e arquitetura backend.
@@ -53,10 +51,20 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 - Docker
 - Spring Security
 
-  ## Conecte-se comigo!
-  
-📬 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-claudiodeveloper007@gmail.com)
-💼 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udio-g-s-castro/)
+ ###  Conecte-se comigo!
 
+Para vagas, parcerias ou apenas trocar uma ideia sobre código:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/claudio-g-s-castro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiodeveloper007@gmail.com)
+
+---
+
+###  Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiodeveloper-github&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
 
