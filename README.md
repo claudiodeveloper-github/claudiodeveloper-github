@@ -60,11 +60,17 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 
 ---
 
-###  Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiodeveloper-github&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=claudiodeveloper-github&theme=tokyonight"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiodeveloper-github&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
