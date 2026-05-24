@@ -59,7 +59,7 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiodeveloper007@gmail.com)
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudiodeveloper-github&theme=tokyonight" />
@@ -70,7 +70,7 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 <br>
 
 <div align="center">
-  <h3>🚀 Nível de Domínio das Tecnologias</h3>
+  <h3>Nível de Domínio das Tecnologias</h3>
   <p>Uma visão clara de onde concentro meu foco e habilidades práticas diariamente:</p>
   
   <img src="https://img.shields.io/badge/Java%20/%20Spring%20Boot-Especialidade-007396?style=for-the-badge&logo=java&logoColor=white" />
