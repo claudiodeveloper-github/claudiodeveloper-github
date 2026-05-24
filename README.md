@@ -55,7 +55,7 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 
 Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/claudio-g-s-castro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.](https://linkedin.com/in/claudio-g-s-castro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiodeveloper007@gmail.com)
 
 ---
