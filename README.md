@@ -62,8 +62,6 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <img height="160em" src="https://github-readme-stats-eight.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=claudiodeveloper-github&theme=tokyonight"/>
