@@ -51,7 +51,7 @@ Construindo projetos práticos para consolidar conhecimentos em desenvolvimento 
 - Docker
 - Spring Security
 
- ###  Conecte-se comigo!
+### Conecte-se comigo!
 
 Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 
