@@ -10,9 +10,9 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
 
 ### 💻 Tecnologias e Ferramentas
 
-[![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,postgresql,docker)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,maven,lombok,postgres,mysql,docker)](https://skillicons.dev)
 <br>
-[![Ferramentas](https://skillicons.dev/icons?i=git,github,linux,c,postman,idea,html,css,js,bootstrap)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,linux,c,postman,idea,eclipse,html,css,js,bootstrap)](https://skillicons.dev)
   
 ***
 
