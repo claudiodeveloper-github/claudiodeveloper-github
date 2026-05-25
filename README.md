@@ -8,10 +8,11 @@
 Desenvolvedor Backend em formação com foco em Java e Spring Boot.
 Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs REST, bancos de dados relacionais e arquitetura backend.
 
-### Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas
 
 [![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker)](https://skillicons.dev)
-[![Ferramentas e Front](https://skillicons.dev/icons?i=git,github,linux,postman,idea,html,css,js,bootstrap)](https://skillicons.dev)
+<br>
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,linux,postman,idea,html,css,js,bootstrap)](https://skillicons.dev)
   
 ***
 
