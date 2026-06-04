@@ -48,7 +48,7 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/top-langs/?username=claudiodeveloper-github&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/top-langs/?username=claudiodeveloper-github&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=typescript,javascript&v=1" />
 </div>
 
 <br>
