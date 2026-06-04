@@ -49,7 +49,7 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudiodeveloper-github&theme=tokyonight" />
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </div>
 
 <br>
@@ -62,4 +62,3 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
   <img src="https://img.shields.io/badge/Bancos%20de%20Dados-Intermediário-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20/%20Git-Em%20Aprendizado-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
-
