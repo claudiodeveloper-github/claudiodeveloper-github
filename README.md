@@ -44,11 +44,11 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiodeveloper007@gmail.com)
 ---
 
-###   Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudiodeveloper-github&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiodeveloper-github&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/top-langs/?username=claudiodeveloper-github&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 <br>
