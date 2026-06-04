@@ -48,7 +48,7 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudiodeveloper-github&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=tokyonight&count_private=true&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiodeveloper-github&layout=compact&theme=tokyonight" />
 </div>
 
 <br>
