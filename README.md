@@ -14,7 +14,7 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
   
 ***
 
-## Projetos em desenvolvimento
+## Projetos 
 
 - **[Banco Digital API](https://github.com/claudiodeveloper-github/banco-digital-api)** — API REST que simula operações bancárias reais, incluindo depósitos, saques, transferências e consulta de saldo.
 
