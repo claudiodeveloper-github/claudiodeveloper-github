@@ -16,6 +16,8 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
 
 ## Projetos em desenvolvimento
 
+- **[Banco Digital API](https://github.com/claudiodeveloper-github/banco-digital-api)** — API REST que simula operações bancárias reais, incluindo depósitos, saques, transferências e consulta de saldo.
+
 - **[Gestao-Farmácia](https://github.com/claudiodeveloper-github/gestao-farmacia)** — Sistema de gerenciamento de medicamentos em Java puro com conexão ao banco de dados MySQL, utilizando arquitetura em camadas e padrão DAO
 
 - **[OS Manager](https://github.com/claudiodeveloper-github/osmanager)** — Sistema completo de ordens de serviço com Spring Boot 3, Spring Security e Thymeleaf
@@ -24,8 +26,6 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
   
 - **[CRUD API Spring Boot](https://github.com/claudiodeveloper-github/crudapi-springboot)** — API CRUD com Spring Boot e PostgreSQL
   
-- **[Banco Digital API](https://github.com/claudiodeveloper-github/banco-digital-api)** — API de operações bancárias básicas
-
 ***
 
 ## Foco de Estudo Atual
