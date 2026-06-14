@@ -29,7 +29,7 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
   
 ***
 
-### 📌 Projetos em Destaque
+###  Projetos em Destaque
 
 <p align="center">
   <a href="https://github.com/claudiodeveloper-github/banco-digital-api" target="_blank">
@@ -50,17 +50,17 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
 
 ***
 
-## Foco de Estudo Atual
+##  Foco de Desenvolvimento & Aprendizado
 
-🔹 Boas práticas backend
+Com o objetivo de construir bases sólidas no desenvolvimento backend, concentro meus estudos diários no aprofundamento do ecossistema Java, buscando compreender as melhores práticas para entregar um código limpo e seguro. Atualmente, meus focos de estudo são:
 
-🔹 Arquitetura REST
-
-🔹 Testes
-
-🔹 Docker
-
-🔹 Spring Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Boas_Práticas_&_Clean_Code-005F0F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Arquitetura_RESTful-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Testes_Automatizados_(JUnit/Mockito)-2496ED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Containers_com_Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Segurança_com_Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+</p>
 
 ### Conecte-se comigo!
 
