@@ -29,6 +29,19 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
   
 ***
 
+### 📌 Repositórios em Destaque
+
+<p align="center">
+  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=banco-digital-api&theme=tokyonight&hide_border=true" />
+  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=osmanager&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=gestao-farmacia&theme=tokyonight&hide_border=true" />
+  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=crudapi-springboot&theme=tokyonight&hide_border=true" />
+</p>
+
+***
+
 ## Foco de Estudo Atual
 
 🔹 Boas práticas backend
