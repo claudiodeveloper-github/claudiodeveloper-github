@@ -29,61 +29,60 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
   
 ***
 
-### 📌 Repositórios em Destaque
+## 💻 Projetos em Destaque
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0">
   <tr>
-    <!-- BLOCO 1 -->
-    <td width="49.5%" height="150" valign="top" style="background-color: #1c2128; border-left: 5px solid #58a6ff; padding: 20px; border-radius: 10px;">
-      <font size="4" color="#58a6ff"><b>Banco Digital API</b></font>
+    <!-- CARD 1: BANCO DIGITAL -->
+    <td width="50%" valign="top">
+      <h3>🏦 Banco Digital API</h3>
+      <p>API REST robusta que simula um ecossistema bancário real. Conta com regras de negócio para depósitos, saques, transferências Pix e consultas seguras de saldo.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <br><br>
-      <font size="3" color="#ffffff">API REST de alta robustez desenvolvida com Spring Boot, Java 21, JPA/Hibernate e MySQL para gerenciamento de contas e transações financeiras.</font>
-      <br><br>
-      <font size="2" color="#adbac7">Stack: Java 21 · Spring Boot 3 · Hibernate/JPA · MySQL</font>
-      <br><br>
-      <a href="https://github.com/claudiodeveloper-github/banco-digital-api" target="_blank"><font size="3" color="#58a6ff"><b>Acessar Projeto →</b></font></a>
+      <a href="https://github.com/claudiodeveloper-github/banco-digital-api" target="_blank"><b>▶️ Acessar Repositório</b></a>
     </td>
-    <!-- ESPAÇO MÍNIMO ENTRE OS CARDS -->
-    <td width="1%"></td>
-    <!-- BLOCO 2 -->
-    <td width="49.5%" height="150" valign="top" style="background-color: #1c2128; border-left: 5px solid #58a6ff; padding: 20px; border-radius: 10px;">
-      <font size="4" color="#58a6ff"><b>OS Manager</b></font>
+    <!-- CARD 2: OS MANAGER -->
+    <td width="50%" valign="top">
+      <h3>🛠️ OS Manager</h3>
+      <p>Sistema Full-Stack completo para emissão e controle de ordens de serviço. Integra controle de acesso com Spring Security e interface dinâmica renderizada via Thymeleaf.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
       <br><br>
-      <font size="3" color="#ffffff">Sistema de gerenciamento de ordens de serviço com Spring Boot 3, Spring Security, MySQL e Thymeleaf para automação e controle de chamados.</font>
-      <br><br>
-      <font size="2" color="#adbac7">Stack: Java · Spring Security · Thymeleaf · MySQL</font>
-      <br><br>
-      <a href="https://github.com/claudiodeveloper-github/osmanager" target="_blank"><font size="3" color="#58a6ff"><b>Acessar Sistema →</b></font></a>
+      <a href="https://github.com/claudiodeveloper-github/osmanager" target="_blank"><b>▶️ Acessar Repositório</b></a>
     </td>
   </tr>
-  <!-- ESPAÇO MÍNIMO VERTICAL -->
-  <tr><td height="10"></td><td></td><td height="10"></td></tr>
   <tr>
-    <!-- BLOCO 3 -->
-    <td width="49.5%" height="150" valign="top" style="background-color: #1c2128; border-left: 5px solid #34d058; padding: 20px; border-radius: 10px;">
-      <font size="4" color="#34d058"><b>Gestão Farmácia</b></font>
+    <!-- CARD 3: GESTÃO FARMÁCIA -->
+    <td width="50%" valign="top">
+      <br>
+      <h3>💊 Gestão Farmácia</h3>
+      <p>Aplicação voltada para gerenciamento farmacêutico e controle rigoroso de estoque. Desenvolvida em Java estruturado, aplicando padrões de arquitetura em camadas e herança via DAO.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JDBC_/_DAO-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <br><br>
-      <font size="3" color="#ffffff">Aplicação console em Java com padrão DAO e JDBC para gerenciamento farmacêutico e controle de estoque de forma estruturada.</font>
-      <br><br>
-      <font size="2" color="#adbac7">Stack: Java Pure · Padrão de Arquitetura DAO · JDBC · MySQL</font>
-      <br><br>
-      <a href="https://github.com/claudiodeveloper-github/gestao-farmacia" target="_blank"><font size="3" color="#34d058"><b>Acessar Sistema →</b></font></a>
+      <a href="https://github.com/claudiodeveloper-github/gestao-farmacia" target="_blank"><b>▶️ Acessar Repositório</b></a>
     </td>
-    <td></td>
-    <!-- BLOCO 4 -->
-    <td width="49.5%" height="150" valign="top" style="background-color: #1c2128; border-left: 5px solid #bc8cff; padding: 20px; border-radius: 10px;">
-      <font size="4" color="#bc8cff"><b>CRUD API Spring Boot</b></font>
+    <!-- CARD 4: DESAFIO ITAÚ -->
+    <td width="50%" valign="top">
+      <br>
+      <h3>🚀 Desafio Itaú Backend</h3>
+      <p>API de alta performance desenvolvida para atender a um desafio técnico focado em eficiência. Resolução limpa de algoritmos e tratamento de requisições sob conceitos RESTful.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
       <br><br>
-      <font size="3" color="#ffffff">API CRUD desenvolvida com Spring Boot e PostgreSQL para operações básicas de cadastro, persistência ágil e manipulação de dados.</font>
-      <br><br>
-      <font size="2" color="#adbac7">Stack: Java · Spring Boot · PostgreSQL · REST API</font>
-      <br><br>
-      <a href="https://github.com/claudiodeveloper-github/crudapi-springboot" target="_blank"><font size="3" color="#bc8cff"><b>Acessar Projeto →</b></font></a>
+      <a href="https://github.com/claudiodeveloper-github/desafio-itau-backend" target="_blank"><b>▶️ Acessar Repositório</b></a>
     </td>
   </tr>
 </table>
+
+---
 
 ***
 
