@@ -37,7 +37,7 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
   <tr>
     <!-- CARD 1: BANCO DIGITAL -->
     <td width="50%" valign="top">
-      <h3>🏦 Banco Digital API</h3>
+      <h3> Banco Digital API</h3>
       <p>API REST robusta que simula um ecossistema bancário real. Conta com regras de negócio para depósitos, saques, transferências Pix e consultas seguras de saldo.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
@@ -47,7 +47,7 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
     </td>
     <!-- CARD 2: OS MANAGER -->
     <td width="50%" valign="top">
-      <h3>🛠️ OS Manager</h3>
+      <h3> OS Manager</h3>
       <p>Sistema Full-Stack completo para emissão e controle de ordens de serviço. Integra controle de acesso com Spring Security e interface dinâmica renderizada via Thymeleaf.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
@@ -60,7 +60,7 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
     <!-- CARD 3: GESTÃO FARMÁCIA -->
     <td width="50%" valign="top">
       <br>
-      <h3>💊 Gestão Farmácia</h3>
+      <h3> Gestão Farmácia</h3>
       <p>Aplicação voltada para gerenciamento farmacêutico e controle rigoroso de estoque. Desenvolvida em Java estruturado, aplicando padrões de arquitetura em camadas e herança via DAO.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/JDBC_/_DAO-000000?style=flat-square" />
@@ -71,7 +71,7 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
     <!-- CARD 4: DESAFIO ITAÚ -->
     <td width="50%" valign="top">
       <br>
-      <h3>🚀 Desafio Itaú Backend</h3>
+      <h3> Desafio Itaú Backend</h3>
       <p>API de alta performance desenvolvida para atender a um desafio técnico focado em eficiência. Resolução limpa de algoritmos e tratamento de requisições sob conceitos RESTful.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
