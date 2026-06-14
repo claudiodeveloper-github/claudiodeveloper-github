@@ -62,14 +62,21 @@ Com o objetivo de construir bases sólidas no desenvolvimento backend, concentro
   <img src="https://img.shields.io/badge/Segurança_com_Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
 </p>
 
+<br>
+
 ### Conecte-se comigo!
 
 Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-g-s-castro)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudiodeveloper007@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/claudio-g-s-castro" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:claudiodeveloper007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Enviar_E--mail_Direto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 ---
-
 ### Estatísticas do GitHub
 
 <p align="center">
