@@ -50,7 +50,7 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
 
 ***
 
-##  Foco de Desenvolvimento & Aprendizado
+## Foco de Desenvolvimento & Aprendizado
 
 Com o objetivo de construir bases sólidas no desenvolvimento backend, concentro meus estudos diários no aprofundamento do ecossistema Java, buscando compreender as melhores práticas para entregar um código limpo e seguro. Atualmente, meus focos de estudo são:
 
@@ -58,11 +58,10 @@ Com o objetivo de construir bases sólidas no desenvolvimento backend, concentro
   <img src="https://img.shields.io/badge/Boas_Práticas_&_Clean_Code-005F0F?style=flat-square" />
   <img src="https://img.shields.io/badge/Arquitetura_RESTful-009688?style=flat-square" />
   <img src="https://img.shields.io/badge/Testes_Automatizados_(JUnit/Mockito)-2496ED?style=flat-square" />
+  <br>
   <img src="https://img.shields.io/badge/Containers_com_Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Segurança_com_Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
 </p>
-
-<br>
 
 ### Conecte-se comigo!
 
@@ -76,7 +75,6 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
     <img src="https://img.shields.io/badge/Enviar_E--mail_Direto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
 ---
 
 ### Estatísticas do GitHub
