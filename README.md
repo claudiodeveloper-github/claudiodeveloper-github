@@ -76,7 +76,9 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
     <img src="https://img.shields.io/badge/Enviar_E--mail_Direto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
 ---
+
 ### Estatísticas do GitHub
 
 <p align="center">
