@@ -31,14 +31,59 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
 
 ### 📌 Repositórios em Destaque
 
-<p align="center">
-  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=banco-digital-api&theme=tokyonight&hide_border=true" />
-  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=osmanager&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=gestao-farmacia&theme=tokyonight&hide_border=true" />
-  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=crudapi-springboot&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- BLOCO 1 -->
+    <td width="49.5%" height="150" valign="top" style="background-color: #1c2128; border-left: 5px solid #58a6ff; padding: 20px; border-radius: 10px;">
+      <font size="4" color="#58a6ff"><b>Banco Digital API</b></font>
+      <br><br>
+      <font size="3" color="#ffffff">API REST de alta robustez desenvolvida com Spring Boot, Java 21, JPA/Hibernate e MySQL para gerenciamento de contas e transações financeiras.</font>
+      <br><br>
+      <font size="2" color="#adbac7">Stack: Java 21 · Spring Boot 3 · Hibernate/JPA · MySQL</font>
+      <br><br>
+      <a href="https://github.com/claudiodeveloper-github/banco-digital-api" target="_blank"><font size="3" color="#58a6ff"><b>Acessar Projeto →</b></font></a>
+    </td>
+    <!-- ESPAÇO MÍNIMO ENTRE OS CARDS -->
+    <td width="1%"></td>
+    <!-- BLOCO 2 -->
+    <td width="49.5%" height="150" valign="top" style="background-color: #1c2128; border-left: 5px solid #58a6ff; padding: 20px; border-radius: 10px;">
+      <font size="4" color="#58a6ff"><b>OS Manager</b></font>
+      <br><br>
+      <font size="3" color="#ffffff">Sistema de gerenciamento de ordens de serviço com Spring Boot 3, Spring Security, MySQL e Thymeleaf para automação e controle de chamados.</font>
+      <br><br>
+      <font size="2" color="#adbac7">Stack: Java · Spring Security · Thymeleaf · MySQL</font>
+      <br><br>
+      <a href="https://github.com/claudiodeveloper-github/osmanager" target="_blank"><font size="3" color="#58a6ff"><b>Acessar Sistema →</b></font></a>
+    </td>
+  </tr>
+  <!-- ESPAÇO MÍNIMO VERTICAL -->
+  <tr><td height="10"></td><td></td><td height="10"></td></tr>
+  <tr>
+    <!-- BLOCO 3 -->
+    <td width="49.5%" height="150" valign="top" style="background-color: #1c2128; border-left: 5px solid #34d058; padding: 20px; border-radius: 10px;">
+      <font size="4" color="#34d058"><b>Gestão Farmácia</b></font>
+      <br><br>
+      <font size="3" color="#ffffff">Aplicação console em Java com padrão DAO e JDBC para gerenciamento farmacêutico e controle de estoque de forma estruturada.</font>
+      <br><br>
+      <font size="2" color="#adbac7">Stack: Java Pure · Padrão de Arquitetura DAO · JDBC · MySQL</font>
+      <br><br>
+      <a href="https://github.com/claudiodeveloper-github/gestao-farmacia" target="_blank"><font size="3" color="#34d058"><b>Acessar Sistema →</b></font></a>
+    </td>
+    <td></td>
+    <!-- BLOCO 4 -->
+    <td width="49.5%" height="150" valign="top" style="background-color: #1c2128; border-left: 5px solid #bc8cff; padding: 20px; border-radius: 10px;">
+      <font size="4" color="#bc8cff"><b>CRUD API Spring Boot</b></font>
+      <br><br>
+      <font size="3" color="#ffffff">API CRUD desenvolvida com Spring Boot e PostgreSQL para operações básicas de cadastro, persistência ágil e manipulação de dados.</font>
+      <br><br>
+      <font size="2" color="#adbac7">Stack: Java · Spring Boot · PostgreSQL · REST API</font>
+      <br><br>
+      <a href="https://github.com/claudiodeveloper-github/crudapi-springboot" target="_blank"><font size="3" color="#bc8cff"><b>Acessar Projeto →</b></font></a>
+    </td>
+  </tr>
+</table>
 
 ***
 
