@@ -29,60 +29,16 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
   
 ***
 
-## 💻 Projetos em Destaque
+###  Projetos em Destaque
 
----
-
-<table border="0">
-  <tr>
-    <!-- CARD 1: BANCO DIGITAL -->
-    <td width="50%" valign="top">
-      <h3> Banco Digital API</h3>
-      <p>API REST robusta que simula um ecossistema bancário real. Conta com regras de negócio para depósitos, saques, transferências Pix e consultas seguras de saldo.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <br><br>
-      <a href="https://github.com/claudiodeveloper-github/banco-digital-api" target="_blank"><b>▶️ Acessar Repositório</b></a>
-    </td>
-    <!-- CARD 2: OS MANAGER -->
-    <td width="50%" valign="top">
-      <h3> OS Manager</h3>
-      <p>Sistema Full-Stack completo para emissão e controle de ordens de serviço. Integra controle de acesso com Spring Security e interface dinâmica renderizada via Thymeleaf.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
-      <br><br>
-      <a href="https://github.com/claudiodeveloper-github/osmanager" target="_blank"><b>▶️ Acessar Repositório</b></a>
-    </td>
-  </tr>
-  <tr>
-    <!-- CARD 3: GESTÃO FARMÁCIA -->
-    <td width="50%" valign="top">
-      <br>
-      <h3> Gestão Farmácia</h3>
-      <p>Aplicação voltada para gerenciamento farmacêutico e controle rigoroso de estoque. Desenvolvida em Java estruturado, aplicando padrões de arquitetura em camadas e herança via DAO.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/JDBC_/_DAO-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <br><br>
-      <a href="https://github.com/claudiodeveloper-github/gestao-farmacia" target="_blank"><b>▶️ Acessar Repositório</b></a>
-    </td>
-    <!-- CARD 4: DESAFIO ITAÚ -->
-    <td width="50%" valign="top">
-      <br>
-      <h3> Desafio Itaú Backend</h3>
-      <p>API de alta performance desenvolvida para atender a um desafio técnico focado em eficiência. Resolução limpa de algoritmos e tratamento de requisições sob conceitos RESTful.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
-      <br><br>
-      <a href="https://github.com/claudiodeveloper-github/desafio-itau-backend" target="_blank"><b>▶️ Acessar Repositório</b></a>
-    </td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=banco-digital-api&theme=tokyonight&hide_border=true" />
+  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=osmanager&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=gestao-farmacia&theme=tokyonight&hide_border=true" />
+  <img height="105em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=crudapi-springboot&theme=tokyonight&hide_border=true" />
+</p>
 
 ***
 
