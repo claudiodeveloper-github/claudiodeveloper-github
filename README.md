@@ -10,31 +10,36 @@ Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs 
 
 ### 💻 Tecnologias e Ferramentas
 
-[![Minhas Tecnologias](https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,linux,c,postman,idea,eclipse,html,css,js,bootstrap&perline=9)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,linux,c,postman,idea,eclipse,html,css,js,bootstrap&perline=9" alt="Minhas Tecnologias" />
+  </a>
+</p>
   
 ***
 
 ## Projetos 
-
-- **[Banco Digital API](https://github.com/claudiodeveloper-github/banco-digital-api)** — API REST que simula operações bancárias reais, incluindo depósitos, saques, transferências e consulta de saldo.
-
-- **[Gestao-Farmácia](https://github.com/claudiodeveloper-github/gestao-farmacia)** — Sistema de gerenciamento de medicamentos em Java puro com conexão ao banco de dados MySQL, utilizando arquitetura em camadas e padrão DAO
-
-- **[OS Manager](https://github.com/claudiodeveloper-github/osmanager)** — Sistema completo de ordens de serviço com Spring Boot 3, Spring Security e Thymeleaf
-  
-- **[Desafio Itaú Backend](https://github.com/claudiodeveloper-github/desafio-itau-backend)** — API REST desenvolvida como desafio técnico
-  
-- **[CRUD API Spring Boot](https://github.com/claudiodeveloper-github/crudapi-springboot)** — API CRUD com Spring Boot e PostgreSQL
+| Projeto | Descrição | Tecs / Links |
+| :--- | :--- | :--- |
+|  **Banco Digital API** | API REST que simula operações bancárias reais, incluindo depósitos, saques, transferências e consulta de saldo. | [Ver Repositório](https://github.com/claudiodeveloper-github/banco-digital-api) |
+|  **Gestao-Farmácia** | Sistema de gerenciamento de medicamentos em Java puro com conexão ao banco de dados MySQL, utilizando arquitetura em camadas e padrão DAO. | [Ver Repositório](https://github.com/claudiodeveloper-github/gestao-farmacia) |
+|  **OS Manager** | Sistema completo de ordens de serviço com Spring Boot 3, Spring Security e Thymeleaf. | [Ver Repositório](https://github.com/claudiodeveloper-github/osmanager) |
+|  **Desafio Itaú Backend** | API REST desenvolvida como desafio técnico. | [Ver Repositório](https://github.com/claudiodeveloper-github/desafio-itau-backend) |
+|  **CRUD API Spring Boot** | API CRUD com Spring Boot e PostgreSQL. | [Ver Repositório](https://github.com/claudiodeveloper-github/crudapi-springboot) |
   
 ***
 
 ## Foco de Estudo Atual
 
-- Boas práticas backend
-- Arquitetura REST
-- Testes
-- Docker
-- Spring Security
+🔹 Boas práticas backend
+
+🔹 Arquitetura REST
+
+🔹 Testes
+
+🔹 Docker
+
+🔹 Spring Security
 
 ### Conecte-se comigo!
 
@@ -46,10 +51,10 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
 
 ### Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api?username=claudiodeveloper-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
   <img height="180em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/top-langs/?username=claudiodeveloper-github&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=typescript,javascript,html,css&v=2" />
-</div>
+</p>
 
 <br>
 
