@@ -5,8 +5,7 @@
 
 # Sobre mim.
 
-Desenvolvedor Backend em formação com foco em Java e Spring Boot.
-Atualmente construindo projetos práticos para aprofundar conhecimentos em APIs REST, bancos de dados relacionais e arquitetura backend.
+Desenvolvedor Backend em formação com foco em Java e Spring Boot. Trago uma forte bagagem em infraestrutura, o que me dá uma visão mais ampla de como o software se comporta em produção. Atualmente, foco na construção de projetos práticos para aprofundar conhecimentos em APIs REST, bancos de dados relacionais, testes e arquitetura backend.
 
 ### 💻 Tecnologias e Ferramentas
 
