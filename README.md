@@ -1,6 +1,4 @@
 
-![Visitor Count](https://komarev.com/ghpvc/?username=claudiodeveloper-github&color=blueviolet&style=flat)
-
 <img src="./banner.png" alt="Banner" width="100%" />
 
 # Sobre mim.
