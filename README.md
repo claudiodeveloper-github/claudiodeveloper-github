@@ -26,27 +26,6 @@ Desenvolvedor Backend em formação com foco em Java e Spring Boot. Trago uma fo
   
 ***
 
-###  Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/claudiodeveloper-github/banco-digital-api" target="_blank">
-    <img height="115em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=banco-digital-api&theme=transparent&description_color=ffffff&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf2&hide_border=true" />
-  </a>
-  <a href="https://github.com/claudiodeveloper-github/osmanager" target="_blank">
-    <img height="115em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=osmanager&theme=transparent&description_color=ffffff&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf2&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/claudiodeveloper-github/gestao-farmacia" target="_blank">
-    <img height="115em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=gestao-farmacia&theme=transparent&description_color=ffffff&title_color=34d058&icon_color=34d058&text_color=e6edf2&hide_border=true" />
-  </a>
-  <a href="https://github.com/claudiodeveloper-github/crudapi-springboot" target="_blank">
-    <img height="115em" src="https://github-readme-stats-zeta-orpin-46.vercel.app/api/pin/?username=claudiodeveloper-github&repo=crudapi-springboot&theme=transparent&description_color=ffffff&title_color=bc8cff&icon_color=bc8cff&text_color=e6edf2&hide_border=true" />
-  </a>
-</p>
-
-***
-
 ## Foco de Desenvolvimento & Aprendizado
 
 Com o objetivo de construir bases sólidas no desenvolvimento backend, concentro meus estudos diários no aprofundamento do ecossistema Java, buscando compreender as melhores práticas para entregar um código limpo e seguro. Atualmente, meus focos de estudo são:
