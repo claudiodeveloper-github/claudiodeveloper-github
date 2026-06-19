@@ -9,7 +9,7 @@ Desenvolvedor Backend em formação com foco em Java e Spring Boot. Trago uma fo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,linux,c,postman,idea,eclipse,html,css,js,bootstrap&perline=9" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,postman,idea,eclipse,&perline=9" alt="Minhas Tecnologias" />
   </a>
 </p>
   
