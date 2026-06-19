@@ -12,9 +12,7 @@ Desenvolvedor Backend em formação com foco em Java e Spring Boot. Trago uma fo
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,postman,eclipse,&perline=9" alt="Minhas Tecnologias" />
   </a>
 </p>
-  
 ***
-
 ## Projetos 
 | Projeto | Descrição | Tecs / Links |
 | :--- | :--- | :--- |
