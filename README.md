@@ -16,13 +16,14 @@ Desenvolvedor Backend em formação com foco em Java e Spring Boot. Trago uma fo
 ***
 
 ## Projetos 
+
 | Projeto | Descrição | Tecs / Links |
 | :--- | :--- | :--- |
 |  **Banco Digital API** | API REST que simula operações bancárias reais, incluindo depósitos, saques, transferências e consulta de saldo. | [Ver Repositório](https://github.com/claudiodeveloper-github/banco-digital-api) |
 |  **Gestao-Farmácia** | Sistema de gerenciamento de medicamentos em Java puro com conexão ao banco de dados MySQL, utilizando arquitetura em camadas e padrão DAO. | [Ver Repositório](https://github.com/claudiodeveloper-github/gestao-farmacia) |
 |  **OS Manager** | Sistema completo de ordens de serviço com Spring Boot 3, Spring Security e Thymeleaf. | [Ver Repositório](https://github.com/claudiodeveloper-github/osmanager) |
 |  **Desafio Itaú Backend** | API REST desenvolvida como desafio técnico. | [Ver Repositório](https://github.com/claudiodeveloper-github/desafio-itau-backend) |
-|  **CRUD API Spring Boot** | API CRUD com Spring Boot e PostgreSQL. | [Ver Repositório](https://github.com/claudiodeveloper-github/crudapi-springboot) |
+|  |  **CRUD API Spring Boot** | API RESTful com Spring Boot e PostgreSQL, incluindo **documentação interativa via Swagger/OpenAPI**. | [Ver Repositório](https://github.com/claudiodeveloper-github/crudapi-springboot) |
   
 ***
 
