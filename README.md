@@ -71,4 +71,5 @@ Para vagas, parcerias ou apenas trocar uma ideia sobre código:
   <img src="https://img.shields.io/badge/Java%20/%20Spring%20Boot-Foco%20Principal-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Bancos%20de%20Dados-Intermediário-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20/%20Git-Em%20Aprendizado-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCUMENTAÇÃO_DE_APIS_(SWAGGER)-INTERMEDIÁRIO-0052cc?style=for-the-badge&logo=swagger&logoColor=white" />
 </div>
