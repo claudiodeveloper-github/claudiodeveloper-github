@@ -29,7 +29,7 @@ Desenvolvedor Backend em formação com foco em Java e Spring Boot. Trago uma fo
 
 |  **Desafio Itaú Backend** | API REST desenvolvida como desafio técnico. | [Ver Repositório](https://github.com/claudiodeveloper-github/desafio-itau-backend) |
 
-|  **CRUD API Spring Boot | API RESTful com Spring Boot e PostgreSQL, incluindo **documentação interativa via Swagger/OpenAPI**. | [Ver Repositório](https://github.com/claudiodeveloper-github/crudapi-springboot) |
+|  **CRUD API Spring Boot** | API RESTful com Spring Boot e PostgreSQL, incluindo **documentação interativa via Swagger/OpenAPI**. | [Ver Repositório](https://github.com/claudiodeveloper-github/crudapi-springboot) |
   
 ***
 
