@@ -5,22 +5,6 @@
 
 Desenvolvedor Backend em formação com foco em Java e Spring Boot. Trago uma forte bagagem em infraestrutura, o que me dá uma visão mais ampla de como o software se comporta em produção. Atualmente, foco na construção de projetos práticos para aprofundar conhecimentos em APIs REST, bancos de dados relacionais, testes e arquitetura backend.
 
-
-###  Princípios que aplico
-
-- Arquitetura em Camadas (Layered Architecture)
-- SOLID
-- Clean Code
-- Separation of Concerns (SoC)
-- Repository Pattern
-- DTO Pattern
-- RESTful APIs
-- Injeção de Dependência (Dependency Injection)
-- Inversão de Controle (IoC)
-- Documentação como parte do desenvolvimento
-
-> **Objetivo:** desenvolver aplicações organizadas, escaláveis, testáveis e de fácil manutenção, seguindo boas práticas de Engenharia de Software desde o planejamento até a entrega.
-
 ---
 
 ### 💻 Tecnologias e Ferramentas
