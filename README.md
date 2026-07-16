@@ -5,6 +5,65 @@
 
 Desenvolvedor Backend em formação com foco em Java e Spring Boot. Trago uma forte bagagem em infraestrutura, o que me dá uma visão mais ampla de como o software se comporta em produção. Atualmente, foco na construção de projetos práticos para aprofundar conhecimentos em APIs REST, bancos de dados relacionais, testes e arquitetura backend.
 
+---
+
+#  Engenharia de Software
+
+> Acredito que um software de qualidade começa muito antes da primeira linha de código. Antes da implementação, sigo um processo de planejamento para definir arquitetura, modelagem e organização do sistema.
+
+```text
+ Ideia
+    │
+    ▼
+ Requisitos
+    │
+    ▼
+ Arquitetura
+    │
+    ▼
+🗄 Modelagem do Banco
+    │
+    ▼
+ Implementação (Java)
+    │
+    ▼
+ Testes
+    │
+    ▼
+ Documentação
+    │
+    ▼
+ Deploy
+```
+
+| Etapa | Objetivo |
+|:------|:---------|
+|  **Ideia** | Identificar o problema e definir a solução que será construída. |
+|  **Requisitos** | Levantar funcionalidades, regras de negócio e necessidades do sistema. |
+|  **Arquitetura** | Definir a estrutura da aplicação, camadas, padrões e tecnologias utilizadas. |
+|  **Modelagem do Banco** | Projetar entidades, relacionamentos e estrutura do banco de dados. |
+|  **Implementação** | Desenvolver a aplicação utilizando Java, Spring Boot e boas práticas de engenharia de software. |
+|  **Testes** | Validar funcionalidades, regras de negócio e garantir a qualidade da aplicação. |
+|  **Documentação** | Documentar arquitetura, APIs, decisões técnicas e instruções de utilização. |
+|  **Deploy** | Publicar a aplicação em ambiente de execução para demonstração ou produção. |
+
+###  Princípios que aplico
+
+- Arquitetura em Camadas (Layered Architecture)
+- SOLID
+- Clean Code
+- Separation of Concerns (SoC)
+- Repository Pattern
+- DTO Pattern
+- RESTful APIs
+- Injeção de Dependência (Dependency Injection)
+- Inversão de Controle (IoC)
+- Documentação como parte do desenvolvimento
+
+> **Objetivo:** desenvolver aplicações organizadas, escaláveis, testáveis e de fácil manutenção, seguindo boas práticas de Engenharia de Software desde o planejamento até a entrega.
+
+---
+
 ### 💻 Tecnologias e Ferramentas
 
 <p align="center">
